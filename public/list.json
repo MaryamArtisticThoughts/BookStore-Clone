@@ -1,0 +1,114 @@
+
+[
+
+    {
+        "id": 1,
+        "name":"Story book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 0,
+        "category": "Free",
+        "image":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 2,
+        "name":"comic book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 0,
+        "category": "comedy",
+        "image":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 3,
+        "name":"Music book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 20,
+        "category": "songs",
+        "image":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 4,
+        "name":"Islamic book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 0,
+        "category": "Free",
+        "image":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 5,
+        "name":"Horror book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 40,
+        "category": "horror",
+        "image":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 6,
+        "name":"Adventure book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 0,
+        "category": "Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 7,
+        "name":"Funny book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 0,
+        "category": "Free",
+        "image":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 8,
+        "name":"Revenge book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 60,
+        "category": "Revenge",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 9,
+        "name":"Scary book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 0,
+        "category": "Free",
+        "image":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 10,
+        "name":"Cultural book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 0,
+        "category": "Free",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    },
+    {
+        "id": 11,
+        "name":"Traditional book",
+        "title": "lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "price" : 60,
+        "category": "trade",
+        "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fstack-old-books-isolated-white-background_18290444.htm&psig=AOvVaw2azKG10cmLupKYl8xyChV5&ust=1717146200664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDQ2q-CtYYDFQAAAAAdAAAAABAE"
+
+        
+    }
+]
